@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java.
 - 💬 Ask me about History & Prehistory, Minecraft.
 - 📫 How to reach me: Discord - MrScautHD#0350.
 
