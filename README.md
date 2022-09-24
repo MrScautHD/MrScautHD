@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💬 Ask me about History & Prehistory, Minecraft.
-- 📫 How to reach me: Discord - MrScautHD#0350.
+- 📫 How to reach me: Discord - MrScautHD#0350, Email - MrScautHD5@gmail.com.
 
 <!---
 MrScautHD/MrScautHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
