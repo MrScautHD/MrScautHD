@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me about History & Prehistory, Minecraft, Beyond-Earth, Project Future.
+- 💬 Ask me about History & Prehistory, Minecraft, Beyond-Earth and Project Future.
 - 📫 How to reach me: Discord - MrScautHD#0350, Email - MrScautHD5@gmail.com.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q6K0XC0)
