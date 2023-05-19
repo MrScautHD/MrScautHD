@@ -4,7 +4,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q6K0XC0)
 
-[![MrScautHD's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrscauthd&theme=react-dark)](https://github.com/amerkoleci/github-readme-activity-graph)
+![MrScautHD's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrscauthd&theme=react-dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrScautHD&show_icons=true&theme=dark)
 
