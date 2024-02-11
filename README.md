@@ -1,4 +1,11 @@
 
+# 💫 About Me:
+🎓 Currently immersed in projects called Sparkle and Stellution.<br>
+🤝 Friendly and approachable.<br>
+📈 Driven by an insatiable thirst for knowledge.<br>
+💭 Feel free to inquire about anything.<br>
+🦢 Fun fact: I've crafted mods for various games and even developed a few games.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7XKw6YQa76) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MrScaut4k) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/MrScautHD) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCHme8zWPZGL13TxSLdqO3OA) 
 
@@ -15,8 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MrScautHD&icon=9&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/MrScautHD) 
-
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/MrScautHD) 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
