@@ -36,7 +36,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://cdn.discordapp.com/attachments/1170762593938440302/1230908678270353480/programmer.gif?ex=6635080a&is=6622930a&hm=4a5927c1ef4c780e1f6ea7e7269a481a16b46e16ca8e843f3f7b47cfea908a51&" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
