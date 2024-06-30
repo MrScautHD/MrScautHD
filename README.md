@@ -17,16 +17,16 @@
 
 
 <p align="center">
- <a href="https://discord.gg/https://discord.gg/7XKw6YQa76" target="blank">
+ <a href="https://discord.gg/7XKw6YQa76" target="blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="MrScautHD" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.instagram.com/mrscaut4k/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="MrScautHD"/>
  </a>
  <a href="https://twitch.tv/MrScautHD" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="MrScautHD" />
  </a>
- <a href="https://youtube.com/@UCHme8zWPZGL13TxSLdqO3OA" target="_blank">
+ <a href="https://www.youtube.com/channel/UCHme8zWPZGL13TxSLdqO3OA" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
  </a>
 </p>
