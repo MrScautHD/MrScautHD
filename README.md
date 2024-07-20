@@ -60,10 +60,9 @@
 
 # Top Open Source Projects
 [![Sparkle](https://github-readme-stats.vercel.app/api/pin/?username=MrScautHD&repo=Sparkle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MrScautHD/Sparkle)
+[![Bliss](https://github-readme-stats.vercel.app/api/pin/?username=MrScautHD&repo=Bliss&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MrScautHD/Bliss)
 [![Raylib-CSharp](https://github-readme-stats.vercel.app/api/pin/?username=MrScautHD&repo=Raylib-CSharp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MrScautHD/Raylib-CSharp)
 [![Stellution](https://github-readme-stats.vercel.app/api/pin/?username=MrScautHD&repo=Stellution&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MrScautHD/Stellution)
-[![Beyond-Earth](https://github-readme-stats.vercel.app/api/pin/?username=MrScautHD&repo=Beyond-Earth&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MrScautHD/Beyond-Earth)
-
 
 <p align="left">
   <a href="https://github.com/MrScautHD?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
