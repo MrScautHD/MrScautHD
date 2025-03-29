@@ -33,22 +33,20 @@
 ---
 
 <!-- Projects Section -->
-# Our Projects 🚀
+# Top Open Source Projects
+[![Sparkle](https://github-readme-stats.vercel.app/api/pin/?username=MrScautHD&repo=Sparkle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MrScautHD/Sparkle)
+[![Bliss](https://github-readme-stats.vercel.app/api/pin/?username=MrScautHD&repo=Bliss&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MrScautHD/Bliss)
+[![Raylib-CSharp](https://github-readme-stats.vercel.app/api/pin/?username=MrScautHD&repo=Raylib-CSharp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MrScautHD/Raylib-CSharp)
+[![Stellution](https://github-readme-stats.vercel.app/api/pin/?username=MrScautHD&repo=Stellution&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MrScautHD/Stellution)
 
-🔹 **[Project Name](link-to-project)** - A brief description of this amazing project.<br/>
-🔹 **[Project Name](link-to-project)** - Another great project showcasing our innovation.<br/>
-🔹 **[Project Name](link-to-project)** - A cutting-edge tool for developers and creators.<br/>
+<!-- Team & Collaboration Section -->
+# Meet the Team & Collaboration 🤝
 
----
+👨‍💻 **Who We Are:** Stellution Studios is made up of skilled developers, designers, and tech enthusiasts who love building innovative tools for game development and real-time rendering.
 
-<!-- Community Section -->
-# Join Our Community 🌍
+💼 **How We Work:** We believe in **open collaboration** and **cutting-edge technology**. We constantly experiment, learn, and create together.
 
-🚀 Whether you're a developer, designer, or enthusiast, Stellution Studios welcomes you! Connect with us, contribute, and be a part of our growing community.
-
-🔹 **Discord** - Chat with our team and community: [Join here](https://discord.gg/7XKw6YQa76).  
-🔹 **Twitter/X** - Follow us for updates and insights: [@Stellution](https://twitter.com/stellution).  
-🔹 **GitHub** - Check out our open-source projects: [Stellution Studios](https://github.com/stellution).  
+🔗 **Want to Collaborate?** If you're passionate about **game engines, rendering frameworks, or innovative tech**, we'd love to hear from you! Feel free to reach out via **[email](mailto:contact@stellution.com)** or join our **[Discord](https://discord.gg/7XKw6YQa76)**.
 
 ---
 
