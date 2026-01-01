@@ -46,18 +46,11 @@
 
 </p>
 
-<p>
- <img align="right" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrScautHD&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Coding gif" />
+<p align="right">
+  <a href="https://github.com/MrScautHD">
+    <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrScautHD&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="MrScautHD's GitHub streak"/>
+  </a>
 </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 # Tech Stack
 
