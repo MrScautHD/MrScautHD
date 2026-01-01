@@ -36,7 +36,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://images-ext-1.discordapp.net/external/wdN5wYN5qrCzfmsAVCvgc1RLaGp4-2ZOxcmKxs6ixYQ/https/user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?width=2880&height=1620" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
