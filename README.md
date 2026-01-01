@@ -34,10 +34,11 @@
 
 <!-- About Section -->
  # About me
+
  
 <p>
- <img align="right" width="350" src="https://images-ext-1.discordapp.net/external/wdN5wYN5qrCzfmsAVCvgc1RLaGp4-2ZOxcmKxs6ixYQ/https/user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?width=2880&height=1620" alt="Coding gif" />
-  
+ <img align="right" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MrScautHD&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Coding gif" />
+
  ✌️ &emsp; Enjoy to do programming and sharing knowledge<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: elias.springer06@gmail.com<br/><br/>
@@ -45,6 +46,15 @@
 
 </p>
 
+<p>
+ <img align="right" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrScautHD&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Coding gif" />
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -83,14 +93,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrScautHD&theme=radical" alt="MrScautHD's GitHub Contribution"/>
   </a>
 </p>
-
-
-<a> 
-    <a href="https://github.com/MrScautHD"><img alt="MrScautHD's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MrScautHD&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/MrScautHD"><img alt="MrScautHD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrScautHD&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-## test
 
 ![MrScautHD's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrScautHD&custom_title=MrScautHD's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
