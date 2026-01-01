@@ -37,19 +37,19 @@
 
  
 <p>
- <img align="right" width="370" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MrScautHD&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Coding gif" />
+ <img align="right" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MrScautHD&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Coding gif" />
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+🎮 &emsp; Check out my game studio: <a href="https://stellution.com/">Visit website</a><br/><br/>
  📧 &emsp; Reach me anytime: elias.springer06@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://discord.gg/7XKw6YQa76)
-
 </p>
 
 <p>
   <img
     align="right"
-    width="370"
+    width="400"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrScautHD&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
     alt="MrScautHD's GitHub streak"
   />
