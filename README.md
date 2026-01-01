@@ -37,7 +37,7 @@
 
  
 <p>
- <img align="right" width="390" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MrScautHD&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Coding gif" />
+ <img align="right" width="370" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MrScautHD&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Coding gif" />
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -49,8 +49,7 @@
 <p>
   <img
     align="right"
-    width="390"
-    vspace="6"
+    width="370"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrScautHD&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
     alt="MrScautHD's GitHub streak"
   />
