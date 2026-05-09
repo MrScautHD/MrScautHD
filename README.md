@@ -72,13 +72,20 @@
 <br/>
 
 # Top Open Source Projects
-[![Sparkle](https://github-readme-stats-fast.vercel.app/api/pin/?username=MrScautHD&repo=Sparkle&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=7F3FBF)](https://github.com/MrScautHD/Sparkle)
-[![Bliss](https://github-readme-stats-fast.vercel.app/api/pin/?username=MrScautHD&repo=Bliss&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=7F3FBF)](https://github.com/MrScautHD/Bliss)
-[![Raylib-CSharp](https://github-readme-stats-fast.vercel.app/api/pin/?username=MrScautHD&repo=Raylib-CSharp&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=7F3FBF)](https://github.com/MrScautHD/Raylib-CSharp)
-[![Stellution](https://github-readme-stats-fast.vercel.app/api/pin/?username=MrScautHD&repo=Stellution&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=7F3FBF)](https://github.com/MrScautHD/Stellution)
+<p align="center">
+  <a href="https://github.com/MrScautHD/Sparkle">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MrScautHD&repo=Sparkle&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=7F3FBF" />
+  </a>
 
-<p align="left">
-  <a href="https://github.com/MrScautHD?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/MrScautHD/Bliss">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MrScautHD&repo=Bliss&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=7F3FBF" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MrScautHD/Raylib-CSharp">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MrScautHD&repo=Raylib-CSharp&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=7F3FBF" />
+  </a>
 </p>
 
 <br/>
