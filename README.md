@@ -71,7 +71,7 @@
 
 <br/>
 
-# Top Open Source Projects
+<!-- Projects Section -->
 # Top Open Source Projects
 <p align="center">
   <a href="https://github.com/MrScautHD/Sparkle">
@@ -86,6 +86,10 @@
 <p align="center">
   <a href="https://github.com/MrScautHD/Raylib-CSharp">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MrScautHD&repo=Raylib-CSharp&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=7F3FBF" />
+  </a>
+
+  <a href="https://github.com/Stellution-Studios/Veldrith">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Stellution-Studios&repo=Veldrith&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=7F3FBF" />
   </a>
 </p>
 
