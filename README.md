@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://discord.gg/7XKw6YQa76">Scaut</a></b>
+                <b><a target="_blank" href="https://discord.gg/7XKw6YQa76">Elias</a></b>
         </samp>
 </h3>
 
